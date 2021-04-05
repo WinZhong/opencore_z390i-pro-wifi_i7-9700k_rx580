@@ -1,4 +1,4 @@
-# opencore_z390i-pro-wifi_i7-9700k_rx580 (0.6.7 + macOS Big Sur 11.2.2)
+# opencore_z390i-pro-wifi_i7-9700k_rx580 (0.6.8 + macOS Big Sur 11.2.3)
 My Hackintosh OpenCore configuration
 
 ## Guide to follow before you use this configuration
@@ -8,7 +8,7 @@ My Hackintosh OpenCore configuration
 **Please make sure you go through this at least 1 time! Especially parts for [dealing with ACPI](https://dortania.github.io/Getting-Started-With-ACPI/).**
 
 - For ACPI files you potentially need, follow here: https://dortania.github.io/Getting-Started-With-ACPI/ssdt-platform.html#desktop
-- I recommend you to prepare your aml files manually, one for understanding things under the hood, one for have fun
+- I recommend you to prepare your aml files manually, for understanding things under the hood as well as for fun
 - Tools you may need:
   - [PropertyTree](https://github.com/corpnewt/ProperTree)
   - [MaciASL](https://github.com/acidanthera/MaciASL/releases)
