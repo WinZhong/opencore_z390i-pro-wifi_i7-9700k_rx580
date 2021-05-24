@@ -1,4 +1,4 @@
-# opencore_z390i-pro-wifi_i7-9700k_rx580 (0.6.9 + macOS Big Sur 11.3)
+# opencore_z390i-pro-wifi_i7-9700k_rx580 (0.6.9 + macOS Big Sur 11.4)
 My Hackintosh OpenCore configuration
 
 ## Guide to follow before you use this configuration
